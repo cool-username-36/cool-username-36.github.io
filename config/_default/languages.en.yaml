@@ -1,0 +1,32 @@
+locale: "en-us"
+title: "Atticus Clark"
+copyright: "Atticus Clark"
+params:
+  author:
+    name: "Atticus Clark"
+    bio:
+      - "Hello! I'm a game programmer. I especially like working on gameplay and UI systems."
+    links:
+      - name: "Email"
+        url: "mailto::AtticusKClark@gmail.com"
+        icon: "mail"
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/atticus-clark/"
+        icon: "linkedin"
+      - name: "GitHub"
+        url: "https://github.com/cool-username-36/"
+        icon: "github"
+#      - name: "itch.io"
+#        url: ""
+#        icon: ""
+  description: "Atticus Clark's Website"
+  dateFormat: "2 January 2006"
+  enableTableOfContents: true
+  enableSearch: false
+  homepage:
+    writingCount: 5
+    workCount: 5
+  search:
+    recentPostsCount: 3
+    recentProjectsCount: 3
+
